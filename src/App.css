@@ -1,0 +1,14 @@
+body{
+  font-family: Arial;
+width: 100%;
+overflow-x: hidden
+}
+
+.cart {
+  top: 0;
+  right: 0;
+}
+
+.glyphicon.glyphicon-shopping-cart {
+  font-size: 20px;
+}
